@@ -54,11 +54,7 @@ class Table extends Component{
 
         return(
             <div > 
-             {/* <TableHead/> */}
-
-        
-
-             <TableBody  characterData={charactersData}/>
+          <TableBody  characterData={charactersData}/>
              
             </div>
         )
