@@ -1,27 +1,6 @@
 import React from "react";
 import { Component } from "react";
 
-
-// const TableHead =()=>{
-
-
-//     return(
-//             <div className="TableComponents">
-//                 <table>
-//                     <thead>
-//                         <tr>
-//                             <th>S.NO</th>
-//                             <th>Interest</th>
-//                             <th>Auctioned Amount</th>
-//                             <th>Installment</th>
-//                             <th>Commission</th>
-//                         </tr>
-//                     </thead>
-//                 </table>
-//             </div>
-//         )
-//     }
-
 const TableBody =(props)=>{
         
     const {characterData}= props
